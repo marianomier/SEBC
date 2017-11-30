@@ -80,13 +80,21 @@ Installing MariaDB Database
 
 ![image](https://user-images.githubusercontent.com/34034752/33298569-b80578b0-d3ac-11e7-9baa-f298be36f69c.png)
 
+<code>vi /etc/my.cnf</code>
 
-
+  Replacing with code /my.cnf
+  
 ![image](https://user-images.githubusercontent.com/34034752/33298579-c3497cda-d3ac-11e7-8cda-39302fcbff15.png)
+
+<code>systemctl start mariadb</code>
 
 ![image](https://user-images.githubusercontent.com/34034752/33298601-e4f06e48-d3ac-11e7-92de-94e51a65ea64.png)
 
+<code>sudo /usr/bin/mysql_secure_installation</code>
+
 ![image](https://user-images.githubusercontent.com/34034752/33298665-38aae400-d3ad-11e7-80f4-28013936e417.png)
+
+Creating Databases for Hadoop services
 
 ![image](https://user-images.githubusercontent.com/34034752/33298894-9855831e-d3ae-11e7-9dfc-533df0c58167.png)
 
