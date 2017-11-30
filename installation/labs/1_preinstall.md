@@ -70,3 +70,25 @@ Network Configuration
 
 ![image](https://user-images.githubusercontent.com/34034752/33444753-b8f53042-d5c0-11e7-980d-56c6eedb7f72.png)
 
+Showing ntpd service 
+
+![image](https://user-images.githubusercontent.com/34034752/33287887-d3377aac-d37f-11e7-98ef-0847f6fd026e.png)
+
+Installing MariaDB Database
+
+<code>yum install mariadb-server</code>
+
+![image](https://user-images.githubusercontent.com/34034752/33298569-b80578b0-d3ac-11e7-9baa-f298be36f69c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/34034752/33298579-c3497cda-d3ac-11e7-8cda-39302fcbff15.png)
+
+![image](https://user-images.githubusercontent.com/34034752/33298601-e4f06e48-d3ac-11e7-92de-94e51a65ea64.png)
+
+![image](https://user-images.githubusercontent.com/34034752/33298665-38aae400-d3ad-11e7-80f4-28013936e417.png)
+
+![image](https://user-images.githubusercontent.com/34034752/33298894-9855831e-d3ae-11e7-9dfc-533df0c58167.png)
+
+
+
